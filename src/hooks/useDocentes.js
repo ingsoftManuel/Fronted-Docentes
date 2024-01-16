@@ -205,3 +205,4 @@ export const useHorarios = () => {
     descargarHorarios
   };
 };
+"// Hook personalizado - Operaciones CRUD y manejo de estado" 
