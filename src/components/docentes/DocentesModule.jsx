@@ -999,4 +999,4 @@ const DocentesModule = () => {
   );
 };
 
-export default DocentesModule;
+export default DocentesModule;"// Sistema de notificaciones integrado - badges y alertas" 
