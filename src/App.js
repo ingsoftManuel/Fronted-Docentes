@@ -1,9 +1,16 @@
 import React from 'react';
-import './index.css';
-import DocentesModule from './components/docentes/DocentesModule';
+import './App.css';
+import { DocenteProvider } from './context/DocenteContext';
+import DocentesModule from './components/docentes/DocentesModule.jsx';
 
 function App() {
-  return <DocentesModule />;
+  return (
+    <DocenteProvider>
+      <div className="App">
+        <DocentesModule />
+      </div>
+    </DocenteProvider>
+  );
 }
 
 export default App;
