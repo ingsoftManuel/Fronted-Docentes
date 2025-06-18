@@ -999,4 +999,5 @@ const DocentesModule = () => {
   );
 };
 
-export default DocentesModule;"// Integraci¢n de consulta de horarios y calendario semanal" 
+
+export default DocentesModule;
