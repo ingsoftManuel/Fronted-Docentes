@@ -999,4 +999,5 @@ const DocentesModule = () => {
   );
 };
 
-export default DocentesModule;"// DocentesModule - Componente principal con CRUD completo" 
+
+export default DocentesModule;
