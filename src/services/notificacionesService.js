@@ -145,3 +145,4 @@ export class NotificacionesService {
     console.log(`ðŸ”„ Notificaciones - Modo cambiado: ${useBackend ? 'BACKEND' : 'MOCK'}`);
   }
 }
+"// Notificaciones Service - Gesti¢n de alertas y mensajes del sistema" 
